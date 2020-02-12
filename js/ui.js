@@ -49,7 +49,7 @@ class UI {
             output += `
                 <ul class="list-group">
                     <li class="list-group-item justify-content-between align-items-center">
-                       <a href="${repo.html_url} target="_blank">
+                       <a href="${repo.html_url}" target="_blank">
                             <span>${repo.name}</span>
                         </a>
                         <div class="d-inline-block float-right">
